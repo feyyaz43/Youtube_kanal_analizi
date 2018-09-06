@@ -1,0 +1,124 @@
+body{
+    /*background-color: #e1f5ff;*/
+    background: transparent url(../resimler/23331901-100.png) space;
+}
+#tum_sayfa{
+}
+#sol_bosluk{
+    width: 120px;
+    height: auto;
+    float: left;
+    color: white;
+}
+#sag_bosluk{
+    width: 120px;
+    height: auto;
+    float: left;
+    color: white;
+    text-align: right;
+}
+#orta{
+    width: 1000px;
+    height: auto;
+    float: left;
+    background-color: white;
+    box-shadow: 0px 0px 10px black;
+}
+#orta_ust_resim{
+    width: 1000px;
+    height: 150px;
+    float: left;
+    /*background: transparent url(../resimler/arkaplan-resimleri.gif) no-repeat;*/
+    /*background: transparent url(../resimler/Make-Onsite-Video-Search-Engine-Friendly.gif) no-repeat;*/
+    /*background: transparent url(../resimler/Make-Onsite-Video-Search-Engine-Friendly2.gif) center;*/
+    background: transparent url(../resimler/Make-Onsite-Video-Search-Engine-Friendly3.gif) space center;
+    
+}
+
+#orta_navigasyon{
+    width: 1000px;
+    height: 40px;
+    float: left;
+    background-color: azure;
+}
+#icerikler{
+    width: 1000px;
+    height: auto;
+    float: left;
+    /*background-color: white;*/    
+}
+
+
+
+#menu{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+    height: 37px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Book Antiqua,sans-serif;
+    border-bottom: 2px solid #b8b8b8;
+    border-top: 1px solid #b8b8b8;
+    background: transparent url(../resimler/navigasyon_5.gif) repeat top left;
+}
+#menu li{
+    display: block;
+    float: left;
+    padding-top: 10px;
+}
+#menu li a{
+    text-decoration: none;
+    color: darkred;    
+    background: transparent url(../resimler/navigasyon_5.gif);
+    padding: 10px 20px 8px 20px;
+}
+#menu li a:hover{
+    background: transparent url(../resimler/navigasyon_6.gif);
+}
+#menu li a.tikla{
+    background: transparent url(../resimler/navigasyon_6.gif);
+}
+
+
+
+#menu2{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+    height: 30px;
+    font-size: 10px;
+    font-weight: bold;
+    font-family: Book Antiqua,sans-serif;
+    background: transparent url(../resimler/navigasyon_7.gif) repeat top left;
+    padding-left: 375px;
+}
+#menu2 li{
+    display: block;
+    float: left;
+    padding-top: 10px;
+}
+#menu2 li a{
+    text-decoration: none;
+    color: darkred;    
+    background: transparent url(../resimler/navigasyon_7.gif);    
+    padding: 10px 10px 8px 10px;
+}
+/*#menu2 li a:hover{
+    background: transparent url(../resimler/navigasyon_7.gif);
+}*/
+#menu2 li a.tikla{
+    background: transparent url(../resimler/navigasyon_8.gif);
+}
+
+#bosluk{
+    width: 1000px;
+    height: 4px;
+    background-color: #636363;
+}
+#liste_sayisi{
+    width: 1000px;
+    height: 30px;
+}
